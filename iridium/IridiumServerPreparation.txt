@@ -6,8 +6,11 @@ sudo dpkg -i iridiumserver.deb
 # change password
 passwd
 
+# timezone can be changed from IridiumServer Web panel
 # set timezone
-sudo dpkg-reconfigure tzdata
+# sudo dpkg-reconfigure tzdata
+
+# IridiumServer update can be done from Web panel
 
 # raspberry update
 sudo apt-get update
