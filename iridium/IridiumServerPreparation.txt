@@ -1,0 +1,12 @@
+# OS Raspbian Stretch is not supported!!!
+https://dev.iridi.com/IRidium_Server_Raspberry/en
+
+# change password
+passwd
+
+# set timezone
+sudo dpkg-reconfigure tzdata
+
+# raspberry update
+sudo apt-get update
+sudo apt-get upgrade
