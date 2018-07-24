@@ -1,5 +1,7 @@
 # OS Raspbian Stretch is not supported!!!
-https://dev.iridi.com/IRidium_Server_Raspberry/en
+# https://dev.iridi.com/IRidium_Server_Raspberry/en
+wget -O /home/pi/iridiumserver.deb http://www.iridiummobile.net/redirects/?go=iRidium_SERVER_RASPBERRY
+sudo dpkg -i iridiumserver.deb
 
 # change password
 passwd
