@@ -1,3 +1,5 @@
+-- DONT use spaces in InitialState stream name!!!
+
 local https = require 'ssl.https'
 local accessKey = <accessKey>
 local bucketKey = <bucketKey>
