@@ -1,1 +1,1 @@
-# knxiot
+# smarthome-algos
