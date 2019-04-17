@@ -15,3 +15,5 @@ BUG!!! Настройка временной зоны сбрасывается �
   * `wget -O /root/iridiumserver.deb http://www.iridiummobile.net/redirects/?go=iRidium_SERVER_RASPBERRY`  
   * `dpkg -i iridiumserver.deb`  
   * `rm iridiumserver.deb`
+
+* Web-интерфейс iRidium server доступен на порту 8888
